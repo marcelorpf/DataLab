@@ -35,7 +35,7 @@
   
 [[main]]
   name = "Partners"
-  url = "#partners"
+  url = "partners/"
   weight = 60
 
 [[main]]

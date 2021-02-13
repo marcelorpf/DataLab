@@ -8,7 +8,7 @@ weight = 10  # Order that this section will appear.
 title = "Datalab"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "first_image.jpg"
+hero_media = ""
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -17,18 +17,18 @@ hero_media = "first_image.jpg"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  color = "#fff"
+  # color = "#fff"
   
   # Background gradient.
   # gradient_start = "#4bb4e3"
   # gradient_end = "#000"
   
   # Background image.
-  # image = ""  # Name of image in `static/img/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  image = "back.jpg"  # Name of image in `static/img/`.
+  image_darken = 0.4  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
-  text_color_light = false
+  text_color_light = true
 
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
@@ -42,6 +42,4 @@ hero_media = "first_image.jpg"
 #   label = "Contact me"
 
 +++
-## **DataLab** is a team of **Data Science, Statistics and Artificial Intelligence** specialists which perform consulting, research and teaching activities.
-
-Turning data into knowledge. Let us find the best solution to your demmand.
+### **_Data Science, Statistics and Artificial Intelligence_.**
