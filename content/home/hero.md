@@ -25,7 +25,9 @@ hero_media = ""
   
   # Background image.
   image = "back.jpg"  # Name of image in `static/img/`.
-  image_darken = 0.4  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  image_darken = 0.5  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  image_size = "actual"
+  image_parallax = false
 
   # Text color (true=light or false=dark).
   text_color_light = true
@@ -42,4 +44,6 @@ hero_media = ""
 #   label = "Contact me"
 
 +++
-### **_Data Science, Statistics and Artificial Intelligence_.**
+
+### **_Data Science, Statistics and Artificial Intelligence_.** {style=text-align:center}
+
