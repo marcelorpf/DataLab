@@ -44,6 +44,27 @@ hero_media = ""
 #   label = "Contact me"
 
 +++
+&nbsp;
 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 ### **_We find the best data-driven solution for your demand._** {style=text-align:center}
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
