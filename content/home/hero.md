@@ -45,5 +45,5 @@ hero_media = ""
 
 +++
 
-### **_Data Science, Statistics and Artificial Intelligence_.** {style=text-align:center}
+### **_We find the best data-driven solution for your demand._** {style=text-align:center}
 
