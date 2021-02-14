@@ -25,7 +25,7 @@ hero_media = ""
   
   # Background image.
   image = "back.jpg"  # Name of image in `static/img/`.
-  image_darken = 0.5  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   image_size = "actual"
   image_parallax = false
 
@@ -55,7 +55,7 @@ hero_media = ""
 &nbsp;
 
 &nbsp;
-### **_We find the best data-driven solution for your demand._** {style=text-align:center}
+## _Let Us find the best data-driven solution for your demand._ {style=text-align:center}
 &nbsp;
 
 &nbsp;
