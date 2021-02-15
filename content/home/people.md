@@ -19,19 +19,19 @@ subtitle = ""
 +++
 {{< row >}}
 {{< column >}}
-{{< figure src="img/eufrasio.jpeg#center" title="" width="200px" >}}
+{{< figure src="img/eufrasio.jpeg#center" title="" width="200px" class="Center" >}}
 {{% center %}}
 [Eufrásio Lima Neto](http://lattes.cnpq.br/5580004940091667)
 {{% /center %}}
 {{< /column >}}
 {{< column >}}
-{{< figure src="img/luiz.jpeg" title="" width="200px" >}}
+{{< figure src="img/luiz.jpeg#center" title="" width="200px" >}}
 {{% center %}}
 [Luiz Medeiros](http://lattes.cnpq.br/8680871640499952)
 {{% /center %}}
 {{< /column >}}
 {{< column >}}
-{{< figure src="img/marcelo.jpeg" title="" width="200px" >}}
+{{< figure src="img/marcelo.jpeg#center" title="" width="200px" >}}
 {{% center %}}
 [Marcelo Ferreira](http://lattes.cnpq.br/2620157217100077)
 {{% /center %}}
