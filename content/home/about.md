@@ -19,6 +19,6 @@ DataLab is the data laboratory at UFPB. We are a team of data science, statistic
 {{% /justify %}}
 {{< /column>}}
 {{< column >}}
-{{< figure src="img/first_image.jpg" title="" >}}
+{{< figure src="img/ds_img.jpeg#floatright" title="" width="520px" >}}
 {{< /column >}}
 {{< /row >}}
