@@ -18,24 +18,24 @@
   url = "#people"
   weight = 25
 
-[[main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 30
+#[[main]]
+#  name = "Projects"
+#  url = "#projects"
+#  weight = 30
 
 [[main]]
   name = "Publications"
   url = "#publications"
   weight = 40
 
-[[main]]
-  name = "Courses"
-  url = "courses/"
-  weight = 50
+#[[main]]
+#  name = "Courses"
+#  url = "courses/"
+#  weight = 50
   
 [[main]]
   name = "Partners"
-  url = "partners/"
+  url = "#partners"
   weight = 60
 
 [[main]]
