@@ -18,3 +18,47 @@
 #    name = "Wo"
 #    url = "#about"
 #    weight = 1
+
+[pt]
+  languageCode = "pt-br"
+  contentDir = "content/pt"
+  title = "DataLab"
+  [pt.params]
+    description = "Data Science, Estatística e Inteligência Artificial"
+  [[pt.menu.main]]
+    name = "Home"
+    url = "#"
+    weight = 10
+  [[pt.menu.main]]
+    name = "Sobre"
+    url = "#about"
+    weight = 20
+  [[pt.menu.main]]
+    name = "Pessoas"
+    url = "#people"
+    weight = 25
+  [[pt.menu.main]]
+    name = "Áreas"
+    url = "#expertise"
+    weight = 30
+  #[[pt.menu.main]]
+  #  name = "Projetos"
+  #  url = "#projects"
+  #  weight = 35
+  [[pt.menu.main]]
+    name = "Publicações"
+    url = "#publications"
+    weight = 40
+  #[[pt.menu.main]]
+  #  name = "Cursos"
+  #  url = "courses/"
+  #  weight = 50
+  [[pt.menu.main]]
+    name = "Parceiros"
+    url = "#partners"
+    weight = 60
+  [[pt.menu.main]]
+    name = "Contato"
+    url = "#contact"
+    weight = 70
+  
