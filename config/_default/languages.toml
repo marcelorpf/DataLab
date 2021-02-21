@@ -31,7 +31,7 @@
     weight = 10
   [[pt.menu.main]]
     name = "Sobre"
-    url = "#about"
+    url = "#sobre"
     weight = 20
   [[pt.menu.main]]
     name = "Pessoas"

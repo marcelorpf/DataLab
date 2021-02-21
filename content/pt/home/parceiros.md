@@ -4,7 +4,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 125  # Order that this section will appear.
 
-title = "Partners"
+title = "Parceiros"
 subtitle = ""
 +++
 {{< row >}}

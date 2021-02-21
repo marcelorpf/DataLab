@@ -3,7 +3,7 @@ widget = "blank"
 headless = true
 active = true
 weight = 20
-title = "About Us"
+title = "Sobre nós"
 # Section design
 [design]
   # Use a 1-column layout

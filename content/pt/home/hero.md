@@ -55,7 +55,7 @@ hero_media = ""
 &nbsp;
 
 &nbsp;
-## _Let us find the best data-driven solution for your demand._ {style=text-align:center}
+## _Nós encontramos a melhor solução para a sua demanda com base nos seus dados._ {style=text-align:center}
 &nbsp;
 
 &nbsp;
