@@ -26,7 +26,7 @@
   [pt.params]
     description = "Data Science, Estatística e Inteligência Artificial"
   [[pt.menu.main]]
-    name = "Home"
+    name = "Início"
     url = "#"
     weight = 10
   [[pt.menu.main]]
@@ -35,10 +35,10 @@
     weight = 20
   [[pt.menu.main]]
     name = "Pessoas"
-    url = "#people"
+    url = "#pessoas"
     weight = 25
   [[pt.menu.main]]
-    name = "Áreas"
+    name = "Atuação"
     url = "#expertise"
     weight = 30
   #[[pt.menu.main]]
@@ -47,7 +47,7 @@
   #  weight = 35
   [[pt.menu.main]]
     name = "Publicações"
-    url = "#publications"
+    url = "#publicacoes"
     weight = 40
   #[[pt.menu.main]]
   #  name = "Cursos"
@@ -55,10 +55,10 @@
   #  weight = 50
   [[pt.menu.main]]
     name = "Parceiros"
-    url = "#partners"
+    url = "#parceiros"
     weight = 60
   [[pt.menu.main]]
     name = "Contato"
-    url = "#contact"
+    url = "#contato"
     weight = 70
   

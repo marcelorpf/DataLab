@@ -4,31 +4,31 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Areas of Expertise"
+title = "Áreas de Atuação"
 subtitle = ""
 +++
 {{< row >}}
 {{< column >}}
 {{% center %}}
-#### Prediction
+#### Predição
 text...
 {{% /center %}}
 {{< /column >}}
 {{< column >}}
 {{% center %}}
-#### Classification
+#### Classificação
 text...
 {{% /center %}}
 {{< /column >}}
 {{< column >}}
 {{% center %}}
-#### Clustering
+#### Agrupamento
 text...
 {{% /center %}}
 {{< /column >}}
 {{< column >}}
 {{% center %}}
-#### Statistical Process Control
+#### Controle Estatístico de Processos
 text...
 {{% /center %}}
 {{< /column >}}
