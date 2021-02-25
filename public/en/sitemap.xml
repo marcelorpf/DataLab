@@ -18,11 +18,6 @@
   </url>
   
   <url>
-    <loc>https://datalabufpb.netlify.app/pt/courses/example/example1/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://datalabufpb.netlify.app/courses/example.1/example3/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
     <xhtml:link
@@ -118,11 +113,6 @@
   </url>
   
   <url>
-    <loc>https://datalabufpb.netlify.app/pt/courses/example/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://datalabufpb.netlify.app/courses/example.2/example4/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
     <xhtml:link
@@ -155,11 +145,6 @@
                 hreflang="en"
                 href="https://datalabufpb.netlify.app/courses/example/example2/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://datalabufpb.netlify.app/pt/courses/example/example2/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -285,6 +270,16 @@
   <url>
     <loc>https://datalabufpb.netlify.app/tags/source-themes/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://datalabufpb.netlify.app/pt/tags/source-themes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://datalabufpb.netlify.app/tags/source-themes/"
+                />
   </url>
   
   <url>
@@ -383,11 +378,6 @@
   </url>
   
   <url>
-    <loc>https://datalabufpb.netlify.app/pt/project/external-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://datalabufpb.netlify.app/tags/human/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -453,11 +443,6 @@
   </url>
   
   <url>
-    <loc>https://datalabufpb.netlify.app/pt/project/robotics/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://datalabufpb.netlify.app/tags/robotics/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -488,8 +473,23 @@
   </url>
   
   <url>
+    <loc>https://datalabufpb.netlify.app/pt/project/skin-cancer-ai/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://datalabufpb.netlify.app/publication_types/2/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://datalabufpb.netlify.app/pt/publication_types/2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://datalabufpb.netlify.app/publication_types/2/"
+                />
   </url>
   
   <url>
@@ -498,18 +498,83 @@
   </url>
   
   <url>
+    <loc>https://datalabufpb.netlify.app/publication/journal-article/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://datalabufpb.netlify.app/pt/publication/journal-article/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://datalabufpb.netlify.app/publication/journal-article/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://datalabufpb.netlify.app/publication/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://datalabufpb.netlify.app/pt/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://datalabufpb.netlify.app/publication/"
+                />
+  </url>
+  
+  <url>
     <loc>https://datalabufpb.netlify.app/authors/robert-ford/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://datalabufpb.netlify.app/pt/authors/robert-ford/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://datalabufpb.netlify.app/authors/robert-ford/"
+                />
   </url>
   
   <url>
     <loc>https://datalabufpb.netlify.app/publication_types/1/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://datalabufpb.netlify.app/pt/publication_types/1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://datalabufpb.netlify.app/publication_types/1/"
+                />
   </url>
   
   <url>
     <loc>https://datalabufpb.netlify.app/pt/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://datalabufpb.netlify.app/publication/conference-paper/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://datalabufpb.netlify.app/pt/publication/conference-paper/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://datalabufpb.netlify.app/publication/conference-paper/"
+                />
   </url>
   
   <url>
@@ -523,20 +588,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://datalabufpb.netlify.app/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://datalabufpb.netlify.app/publication/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://datalabufpb.netlify.app/pt/publication/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://datalabufpb.netlify.app/publication/"
                 />
   </url>
   
