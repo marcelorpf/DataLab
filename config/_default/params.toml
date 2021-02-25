@@ -8,7 +8,7 @@ microsoft_clarity = ""
 #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`, `strawberry`.
 color_theme = "default"
 # Enable users to switch between day and night mode?
-day_night = true
+day_night = false
 
 # Font style.
 #   Choose from `default`, `classic`, or `playfair`.
@@ -68,9 +68,7 @@ address = "Departamento de Estatística/CCEN/UFPB, Cidade Universitária s/n, CE
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
   {icon = "instagram", icon_pack = "fab", name = "Follow us", link = "https://instagram.com/datalab.ufpb"},
-  {icon = "twitter", icon_pack = "fab", name = "Send us a DM", link = "https://twitter.com/datalab.ufpb"},
   {icon = "linkedin", icon_pack = "fab", name = "Connect with us", link = "https://linkedin.com/datalab.ufpb"},
-  # {icon = "envelope", icon_pack = "fab", name = "Send us an e-mail", link = "datalab@de.ufpb.br"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
