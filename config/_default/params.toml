@@ -21,7 +21,7 @@ description = "Data Science, Statistics and Artificial Intelligence"
 sharing_image = ""
 
 # Twitter username (without @). Used when a vistor shares your site on Twitter.
-twitter = "datalab.ufpb"
+twitter = ""
 
 # Diplay a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
@@ -55,7 +55,9 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "datalab@de.ufpb.br"
 phone = "+55 83 3216-7785"
-address = "Departamento de Estatística/CCEN/UFPB, Cidade Universitária s/n, CEP 58051-900, João Pessoa/PB, Brasil"
+address = "Departamento de Estatística, Centro de Ciências Exatas e da Natureza, UFPB, Cidade Universitária s/n, CEP 58051-900, João Pessoa/PB, Brasil"
+instagram = "datalab.ufpb"
+linkedin = "datalab.ufpb"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 # office_hours = """Monday 10:00 to 13:00<br>
