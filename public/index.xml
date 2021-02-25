@@ -31,20 +31,20 @@
     </item>
     
     <item>
-      <title>Publications</title>
-      <link>https://datalabufpb.netlify.app/publication/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://datalabufpb.netlify.app/publication/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Projects</title>
       <link>https://datalabufpb.netlify.app/project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://datalabufpb.netlify.app/project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://datalabufpb.netlify.app/publication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datalabufpb.netlify.app/publication/</guid>
       <description></description>
     </item>
     

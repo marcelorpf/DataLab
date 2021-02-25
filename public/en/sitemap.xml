@@ -240,36 +240,11 @@
   <url>
     <loc>https://datalabufpb.netlify.app/publication_types/3/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://datalabufpb.netlify.app/pt/publication_types/3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://datalabufpb.netlify.app/publication_types/3/"
-                />
   </url>
   
   <url>
     <loc>https://datalabufpb.netlify.app/pt/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://datalabufpb.netlify.app/publication/preprint/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://datalabufpb.netlify.app/pt/publication/preprint/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://datalabufpb.netlify.app/publication/preprint/"
-                />
   </url>
   
   <url>
@@ -308,33 +283,8 @@
   </url>
   
   <url>
-    <loc>https://datalabufpb.netlify.app/publication/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://datalabufpb.netlify.app/pt/publication/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://datalabufpb.netlify.app/publication/"
-                />
-  </url>
-  
-  <url>
     <loc>https://datalabufpb.netlify.app/tags/source-themes/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://datalabufpb.netlify.app/pt/tags/source-themes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://datalabufpb.netlify.app/tags/source-themes/"
-                />
   </url>
   
   <url>
@@ -395,6 +345,11 @@
                 hreflang="en"
                 href="https://datalabufpb.netlify.app/project/deep-learning/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://datalabufpb.netlify.app/pt/project/deep-learning/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -463,6 +418,11 @@
   </url>
   
   <url>
+    <loc>https://datalabufpb.netlify.app/pt/project/internal-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://datalabufpb.netlify.app/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -493,6 +453,11 @@
   </url>
   
   <url>
+    <loc>https://datalabufpb.netlify.app/pt/project/robotics/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://datalabufpb.netlify.app/tags/robotics/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -520,11 +485,6 @@
                 hreflang="en"
                 href="https://datalabufpb.netlify.app/project/skin-cancer-ai/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://datalabufpb.netlify.app/pt/project/skin-cancer-ai/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -563,6 +523,20 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://datalabufpb.netlify.app/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://datalabufpb.netlify.app/publication/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://datalabufpb.netlify.app/pt/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://datalabufpb.netlify.app/publication/"
                 />
   </url>
   

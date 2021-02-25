@@ -7,7 +7,6 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>pt-br</language>
     <copyright>Copyright &amp;copy; {year} [DataLab](https://datalab.de.ufpb.br)</copyright>
-    <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://datalabufpb.netlify.app/pt/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +14,7 @@
     <item>
       <title></title>
       <link>https://datalabufpb.netlify.app/pt/authors/admin/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://datalabufpb.netlify.app/pt/authors/admin/</guid>
       <description></description>

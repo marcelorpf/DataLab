@@ -168,126 +168,6 @@
   </url>
   
   <url>
-    <loc>https://datalabufpb.netlify.app/pt/authors/admin/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://datalabufpb.netlify.app/authors/admin/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://datalabufpb.netlify.app/pt/authors/admin/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://datalabufpb.netlify.app/pt/publication_types/3/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://datalabufpb.netlify.app/publication_types/3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://datalabufpb.netlify.app/pt/publication_types/3/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://datalabufpb.netlify.app/pt/publication/preprint/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://datalabufpb.netlify.app/publication/preprint/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://datalabufpb.netlify.app/pt/publication/preprint/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://datalabufpb.netlify.app/pt/authors/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://datalabufpb.netlify.app/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://datalabufpb.netlify.app/pt/authors/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://datalabufpb.netlify.app/pt/publication_types/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://datalabufpb.netlify.app/publication_types/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://datalabufpb.netlify.app/pt/publication_types/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://datalabufpb.netlify.app/pt/publication/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://datalabufpb.netlify.app/publication/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://datalabufpb.netlify.app/pt/publication/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://datalabufpb.netlify.app/pt/tags/source-themes/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://datalabufpb.netlify.app/tags/source-themes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://datalabufpb.netlify.app/pt/tags/source-themes/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://datalabufpb.netlify.app/pt/tags/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://datalabufpb.netlify.app/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://datalabufpb.netlify.app/pt/tags/"
-                />
-  </url>
-  
-  <url>
     <loc>https://datalabufpb.netlify.app/pt/project/artificial-intelligence/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -453,6 +333,49 @@
   </url>
   
   <url>
+    <loc>https://datalabufpb.netlify.app/pt/tags/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://datalabufpb.netlify.app/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://datalabufpb.netlify.app/pt/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://datalabufpb.netlify.app/pt/authors/admin/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://datalabufpb.netlify.app/authors/admin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://datalabufpb.netlify.app/pt/authors/admin/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://datalabufpb.netlify.app/pt/authors/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://datalabufpb.netlify.app/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://datalabufpb.netlify.app/pt/authors/"
+                />
+  </url>
+  
+  <url>
     <loc>https://datalabufpb.netlify.app/pt/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -463,6 +386,34 @@
                 rel="alternate"
                 hreflang="pt"
                 href="https://datalabufpb.netlify.app/pt/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://datalabufpb.netlify.app/pt/publication_types/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://datalabufpb.netlify.app/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://datalabufpb.netlify.app/pt/publication_types/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://datalabufpb.netlify.app/pt/publication/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://datalabufpb.netlify.app/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://datalabufpb.netlify.app/pt/publication/"
                 />
   </url>
   
