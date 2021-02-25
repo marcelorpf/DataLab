@@ -45,10 +45,10 @@
   #  name = "Projetos"
   #  url = "#projects"
   #  weight = 35
-  [[pt.menu.main]]
-    name = "Publicações"
-    url = "#publicacoes"
-    weight = 40
+  #[[pt.menu.main]]
+  #  name = "Publicações"
+  #  url = "#publicacoes"
+  #  weight = 40
   #[[pt.menu.main]]
   #  name = "Cursos"
   #  url = "courses/"
