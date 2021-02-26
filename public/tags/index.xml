@@ -2,58 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on DataLab</title>
-    <link>https://datalabufpb.netlify.app/tags/</link>
+    <link>http://de.ufpb.br/datalab/tags/</link>
     <description>Recent content in Tags on DataLab</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year} [DataLab](https://datalab.de.ufpb.br)</copyright>
     <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://datalabufpb.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="http://de.ufpb.br/datalab/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Source Themes</title>
-      <link>https://datalabufpb.netlify.app/tags/source-themes/</link>
+      <link>http://de.ufpb.br/datalab/tags/source-themes/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://datalabufpb.netlify.app/tags/source-themes/</guid>
+      <guid>http://de.ufpb.br/datalab/tags/source-themes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep Learning</title>
-      <link>https://datalabufpb.netlify.app/tags/deep-learning/</link>
+      <link>http://de.ufpb.br/datalab/tags/deep-learning/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://datalabufpb.netlify.app/tags/deep-learning/</guid>
+      <guid>http://de.ufpb.br/datalab/tags/deep-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Demo</title>
-      <link>https://datalabufpb.netlify.app/tags/demo/</link>
+      <link>http://de.ufpb.br/datalab/tags/demo/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://datalabufpb.netlify.app/tags/demo/</guid>
+      <guid>http://de.ufpb.br/datalab/tags/demo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>human</title>
-      <link>https://datalabufpb.netlify.app/tags/human/</link>
+      <link>http://de.ufpb.br/datalab/tags/human/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://datalabufpb.netlify.app/tags/human/</guid>
+      <guid>http://de.ufpb.br/datalab/tags/human/</guid>
       <description></description>
     </item>
     
     <item>
       <title>robotics</title>
-      <link>https://datalabufpb.netlify.app/tags/robotics/</link>
+      <link>http://de.ufpb.br/datalab/tags/robotics/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://datalabufpb.netlify.app/tags/robotics/</guid>
+      <guid>http://de.ufpb.br/datalab/tags/robotics/</guid>
       <description></description>
     </item>
     

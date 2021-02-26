@@ -3,591 +3,561 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://datalabufpb.netlify.app/courses/example/example1/</loc>
+    <loc>http://de.ufpb.br/datalab/courses/example/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://datalabufpb.netlify.app/pt/courses/example/example1/"
+                href="http://de.ufpb.br/datalab/pt/courses/example/example1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://datalabufpb.netlify.app/courses/example/example1/"
+                href="http://de.ufpb.br/datalab/courses/example/example1/"
                 />
   </url>
   
   <url>
-    <loc>https://datalabufpb.netlify.app/courses/example.1/example3/</loc>
+    <loc>http://de.ufpb.br/datalab/pt/courses/example/example1/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://de.ufpb.br/datalab/courses/example.1/example3/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://datalabufpb.netlify.app/pt/courses/example.1/example3/"
+                href="http://de.ufpb.br/datalab/pt/courses/example.1/example3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://datalabufpb.netlify.app/courses/example.1/example3/"
+                href="http://de.ufpb.br/datalab/courses/example.1/example3/"
                 />
   </url>
   
   <url>
-    <loc>https://datalabufpb.netlify.app/pt/courses/example.1/example3/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://datalabufpb.netlify.app/courses/example.2/example3/</loc>
+    <loc>http://de.ufpb.br/datalab/courses/example.2/example3/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://datalabufpb.netlify.app/pt/courses/example.2/example3/"
+                href="http://de.ufpb.br/datalab/pt/courses/example.2/example3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://datalabufpb.netlify.app/courses/example.2/example3/"
+                href="http://de.ufpb.br/datalab/courses/example.2/example3/"
                 />
   </url>
   
   <url>
-    <loc>https://datalabufpb.netlify.app/pt/courses/example.2/example3/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://datalabufpb.netlify.app/courses/example.1/</loc>
+    <loc>http://de.ufpb.br/datalab/courses/example.1/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://datalabufpb.netlify.app/pt/courses/example.1/"
+                href="http://de.ufpb.br/datalab/pt/courses/example.1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://datalabufpb.netlify.app/courses/example.1/"
+                href="http://de.ufpb.br/datalab/courses/example.1/"
                 />
   </url>
   
   <url>
-    <loc>https://datalabufpb.netlify.app/courses/example.2/</loc>
+    <loc>http://de.ufpb.br/datalab/courses/example.2/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://datalabufpb.netlify.app/pt/courses/example.2/"
+                href="http://de.ufpb.br/datalab/pt/courses/example.2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://datalabufpb.netlify.app/courses/example.2/"
+                href="http://de.ufpb.br/datalab/courses/example.2/"
                 />
   </url>
   
   <url>
-    <loc>https://datalabufpb.netlify.app/courses/example/</loc>
+    <loc>http://de.ufpb.br/datalab/courses/example/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://datalabufpb.netlify.app/pt/courses/example/"
+                href="http://de.ufpb.br/datalab/pt/courses/example/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://datalabufpb.netlify.app/courses/example/"
+                href="http://de.ufpb.br/datalab/courses/example/"
                 />
   </url>
   
   <url>
-    <loc>https://datalabufpb.netlify.app/pt/courses/example.1/</loc>
+    <loc>http://de.ufpb.br/datalab/pt/courses/example/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://datalabufpb.netlify.app/pt/courses/example.2/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://datalabufpb.netlify.app/courses/example.2/example4/</loc>
+    <loc>http://de.ufpb.br/datalab/courses/example.2/example4/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://datalabufpb.netlify.app/pt/courses/example.2/example4/"
+                href="http://de.ufpb.br/datalab/pt/courses/example.2/example4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://datalabufpb.netlify.app/courses/example.2/example4/"
+                href="http://de.ufpb.br/datalab/courses/example.2/example4/"
                 />
   </url>
   
   <url>
-    <loc>https://datalabufpb.netlify.app/pt/courses/example.2/example4/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://datalabufpb.netlify.app/courses/example/example2/</loc>
+    <loc>http://de.ufpb.br/datalab/courses/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://datalabufpb.netlify.app/pt/courses/example/example2/"
+                href="http://de.ufpb.br/datalab/pt/courses/example/example2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://datalabufpb.netlify.app/courses/example/example2/"
+                href="http://de.ufpb.br/datalab/courses/example/example2/"
                 />
   </url>
   
   <url>
-    <loc>https://datalabufpb.netlify.app/courses/example.1/example4/</loc>
+    <loc>http://de.ufpb.br/datalab/pt/courses/example/example2/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://de.ufpb.br/datalab/courses/example.1/example4/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://datalabufpb.netlify.app/pt/courses/example.1/example4/"
+                href="http://de.ufpb.br/datalab/pt/courses/example.1/example4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://datalabufpb.netlify.app/courses/example.1/example4/"
+                href="http://de.ufpb.br/datalab/courses/example.1/example4/"
                 />
   </url>
   
   <url>
-    <loc>https://datalabufpb.netlify.app/pt/courses/example.1/example4/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://datalabufpb.netlify.app/courses/</loc>
+    <loc>http://de.ufpb.br/datalab/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://datalabufpb.netlify.app/pt/courses/"
+                href="http://de.ufpb.br/datalab/pt/courses/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://datalabufpb.netlify.app/courses/"
+                href="http://de.ufpb.br/datalab/courses/"
                 />
   </url>
   
   <url>
-    <loc>https://datalabufpb.netlify.app/pt/courses/</loc>
+    <loc>http://de.ufpb.br/datalab/pt/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://datalabufpb.netlify.app/</loc>
+    <loc>http://de.ufpb.br/datalab/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://datalabufpb.netlify.app/pt/"
+                href="http://de.ufpb.br/datalab/pt/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://datalabufpb.netlify.app/"
+                href="http://de.ufpb.br/datalab/"
                 />
   </url>
   
   <url>
-    <loc>https://datalabufpb.netlify.app/pt/</loc>
+    <loc>http://de.ufpb.br/datalab/pt/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://datalabufpb.netlify.app/authors/admin/</loc>
+    <loc>http://de.ufpb.br/datalab/authors/admin/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://datalabufpb.netlify.app/pt/authors/admin/"
+                href="http://de.ufpb.br/datalab/pt/authors/admin/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://datalabufpb.netlify.app/authors/admin/"
+                href="http://de.ufpb.br/datalab/authors/admin/"
                 />
   </url>
   
   <url>
-    <loc>https://datalabufpb.netlify.app/publication_types/3/</loc>
+    <loc>http://de.ufpb.br/datalab/publication_types/3/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://datalabufpb.netlify.app/pt/publication/preprint/</loc>
+    <loc>http://de.ufpb.br/datalab/pt/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://datalabufpb.netlify.app/authors/</loc>
+    <loc>http://de.ufpb.br/datalab/authors/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://datalabufpb.netlify.app/pt/authors/"
+                href="http://de.ufpb.br/datalab/pt/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://datalabufpb.netlify.app/authors/"
+                href="http://de.ufpb.br/datalab/authors/"
                 />
   </url>
   
   <url>
-    <loc>https://datalabufpb.netlify.app/publication_types/</loc>
+    <loc>http://de.ufpb.br/datalab/publication_types/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://datalabufpb.netlify.app/pt/publication_types/"
+                href="http://de.ufpb.br/datalab/pt/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://datalabufpb.netlify.app/publication_types/"
+                href="http://de.ufpb.br/datalab/publication_types/"
                 />
   </url>
   
   <url>
-    <loc>https://datalabufpb.netlify.app/pt/publication/</loc>
+    <loc>http://de.ufpb.br/datalab/pt/publication/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://datalabufpb.netlify.app/tags/source-themes/</loc>
+    <loc>http://de.ufpb.br/datalab/tags/source-themes/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://datalabufpb.netlify.app/pt/tags/source-themes/"
+                href="http://de.ufpb.br/datalab/pt/tags/source-themes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://datalabufpb.netlify.app/tags/source-themes/"
+                href="http://de.ufpb.br/datalab/tags/source-themes/"
                 />
   </url>
   
   <url>
-    <loc>https://datalabufpb.netlify.app/tags/</loc>
+    <loc>http://de.ufpb.br/datalab/tags/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://datalabufpb.netlify.app/pt/tags/"
+                href="http://de.ufpb.br/datalab/pt/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://datalabufpb.netlify.app/tags/"
+                href="http://de.ufpb.br/datalab/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://datalabufpb.netlify.app/project/artificial-intelligence/</loc>
+    <loc>http://de.ufpb.br/datalab/project/artificial-intelligence/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://datalabufpb.netlify.app/pt/project/artificial-intelligence/"
+                href="http://de.ufpb.br/datalab/pt/project/artificial-intelligence/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://datalabufpb.netlify.app/project/artificial-intelligence/"
+                href="http://de.ufpb.br/datalab/project/artificial-intelligence/"
                 />
   </url>
   
   <url>
-    <loc>https://datalabufpb.netlify.app/tags/deep-learning/</loc>
+    <loc>http://de.ufpb.br/datalab/tags/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://datalabufpb.netlify.app/pt/tags/deep-learning/"
+                href="http://de.ufpb.br/datalab/pt/tags/deep-learning/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://datalabufpb.netlify.app/tags/deep-learning/"
+                href="http://de.ufpb.br/datalab/tags/deep-learning/"
                 />
   </url>
   
   <url>
-    <loc>https://datalabufpb.netlify.app/project/deep-learning/</loc>
+    <loc>http://de.ufpb.br/datalab/project/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://datalabufpb.netlify.app/pt/project/deep-learning/"
+                href="http://de.ufpb.br/datalab/pt/project/deep-learning/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://datalabufpb.netlify.app/project/deep-learning/"
+                href="http://de.ufpb.br/datalab/project/deep-learning/"
                 />
   </url>
   
   <url>
-    <loc>https://datalabufpb.netlify.app/pt/project/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://datalabufpb.netlify.app/tags/demo/</loc>
+    <loc>http://de.ufpb.br/datalab/tags/demo/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://datalabufpb.netlify.app/pt/tags/demo/"
+                href="http://de.ufpb.br/datalab/pt/tags/demo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://datalabufpb.netlify.app/tags/demo/"
+                href="http://de.ufpb.br/datalab/tags/demo/"
                 />
   </url>
   
   <url>
-    <loc>https://datalabufpb.netlify.app/project/external-project/</loc>
+    <loc>http://de.ufpb.br/datalab/project/external-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://datalabufpb.netlify.app/pt/project/external-project/"
+                href="http://de.ufpb.br/datalab/pt/project/external-project/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://datalabufpb.netlify.app/project/external-project/"
+                href="http://de.ufpb.br/datalab/project/external-project/"
                 />
   </url>
   
   <url>
-    <loc>https://datalabufpb.netlify.app/tags/human/</loc>
+    <loc>http://de.ufpb.br/datalab/tags/human/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://datalabufpb.netlify.app/pt/tags/human/"
+                href="http://de.ufpb.br/datalab/pt/tags/human/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://datalabufpb.netlify.app/tags/human/"
+                href="http://de.ufpb.br/datalab/tags/human/"
                 />
   </url>
   
   <url>
-    <loc>https://datalabufpb.netlify.app/project/internal-project/</loc>
+    <loc>http://de.ufpb.br/datalab/project/internal-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://datalabufpb.netlify.app/pt/project/internal-project/"
+                href="http://de.ufpb.br/datalab/pt/project/internal-project/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://datalabufpb.netlify.app/project/internal-project/"
+                href="http://de.ufpb.br/datalab/project/internal-project/"
                 />
   </url>
   
   <url>
-    <loc>https://datalabufpb.netlify.app/pt/project/internal-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://datalabufpb.netlify.app/project/</loc>
+    <loc>http://de.ufpb.br/datalab/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://datalabufpb.netlify.app/pt/project/"
+                href="http://de.ufpb.br/datalab/pt/project/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://datalabufpb.netlify.app/project/"
+                href="http://de.ufpb.br/datalab/project/"
                 />
   </url>
   
   <url>
-    <loc>https://datalabufpb.netlify.app/project/robotics/</loc>
+    <loc>http://de.ufpb.br/datalab/project/robotics/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://datalabufpb.netlify.app/pt/project/robotics/"
+                href="http://de.ufpb.br/datalab/pt/project/robotics/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://datalabufpb.netlify.app/project/robotics/"
+                href="http://de.ufpb.br/datalab/project/robotics/"
                 />
   </url>
   
   <url>
-    <loc>https://datalabufpb.netlify.app/tags/robotics/</loc>
+    <loc>http://de.ufpb.br/datalab/tags/robotics/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://datalabufpb.netlify.app/pt/tags/robotics/"
+                href="http://de.ufpb.br/datalab/pt/tags/robotics/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://datalabufpb.netlify.app/tags/robotics/"
+                href="http://de.ufpb.br/datalab/tags/robotics/"
                 />
   </url>
   
   <url>
-    <loc>https://datalabufpb.netlify.app/project/skin-cancer-ai/</loc>
+    <loc>http://de.ufpb.br/datalab/project/skin-cancer-ai/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://datalabufpb.netlify.app/pt/project/skin-cancer-ai/"
+                href="http://de.ufpb.br/datalab/pt/project/skin-cancer-ai/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://datalabufpb.netlify.app/project/skin-cancer-ai/"
+                href="http://de.ufpb.br/datalab/project/skin-cancer-ai/"
                 />
   </url>
   
   <url>
-    <loc>https://datalabufpb.netlify.app/pt/project/skin-cancer-ai/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://datalabufpb.netlify.app/publication_types/2/</loc>
+    <loc>http://de.ufpb.br/datalab/publication_types/2/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://datalabufpb.netlify.app/pt/publication_types/2/"
+                href="http://de.ufpb.br/datalab/pt/publication_types/2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://datalabufpb.netlify.app/publication_types/2/"
+                href="http://de.ufpb.br/datalab/publication_types/2/"
                 />
   </url>
   
   <url>
-    <loc>https://datalabufpb.netlify.app/pt/publication/journal-article/</loc>
+    <loc>http://de.ufpb.br/datalab/pt/publication/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://datalabufpb.netlify.app/publication/journal-article/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://datalabufpb.netlify.app/pt/publication/journal-article/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://datalabufpb.netlify.app/publication/journal-article/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://datalabufpb.netlify.app/publication/</loc>
+    <loc>http://de.ufpb.br/datalab/publication/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://datalabufpb.netlify.app/pt/publication/"
+                href="http://de.ufpb.br/datalab/pt/publication/journal-article/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://datalabufpb.netlify.app/publication/"
+                href="http://de.ufpb.br/datalab/publication/journal-article/"
                 />
   </url>
   
   <url>
-    <loc>https://datalabufpb.netlify.app/authors/robert-ford/</loc>
+    <loc>http://de.ufpb.br/datalab/publication/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://datalabufpb.netlify.app/pt/authors/robert-ford/"
+                href="http://de.ufpb.br/datalab/pt/publication/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://datalabufpb.netlify.app/authors/robert-ford/"
+                href="http://de.ufpb.br/datalab/publication/"
                 />
   </url>
   
   <url>
-    <loc>https://datalabufpb.netlify.app/publication_types/1/</loc>
+    <loc>http://de.ufpb.br/datalab/authors/robert-ford/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://de.ufpb.br/datalab/pt/authors/robert-ford/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://de.ufpb.br/datalab/authors/robert-ford/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://de.ufpb.br/datalab/publication_types/1/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://datalabufpb.netlify.app/pt/publication_types/1/"
+                href="http://de.ufpb.br/datalab/pt/publication_types/1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://datalabufpb.netlify.app/publication_types/1/"
+                href="http://de.ufpb.br/datalab/publication_types/1/"
                 />
   </url>
   
   <url>
-    <loc>https://datalabufpb.netlify.app/pt/publication/conference-paper/</loc>
+    <loc>http://de.ufpb.br/datalab/pt/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://datalabufpb.netlify.app/publication/conference-paper/</loc>
+    <loc>http://de.ufpb.br/datalab/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://datalabufpb.netlify.app/pt/publication/conference-paper/"
+                href="http://de.ufpb.br/datalab/pt/publication/conference-paper/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://datalabufpb.netlify.app/publication/conference-paper/"
+                href="http://de.ufpb.br/datalab/publication/conference-paper/"
                 />
   </url>
   
   <url>
-    <loc>https://datalabufpb.netlify.app/categories/</loc>
+    <loc>http://de.ufpb.br/datalab/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://datalabufpb.netlify.app/pt/categories/"
+                href="http://de.ufpb.br/datalab/pt/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://datalabufpb.netlify.app/categories/"
+                href="http://de.ufpb.br/datalab/categories/"
                 />
   </url>
   

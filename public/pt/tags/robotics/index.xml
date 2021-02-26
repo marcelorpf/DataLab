@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>robotics on DataLab</title>
-    <link>https://datalabufpb.netlify.app/pt/tags/robotics/</link>
+    <link>http://de.ufpb.br/datalab/pt/tags/robotics/</link>
     <description>Recent content in robotics on DataLab</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>pt-br</language>
     <copyright>Copyright &amp;copy; {year} [DataLab](https://datalab.de.ufpb.br)</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://datalabufpb.netlify.app/pt/tags/robotics/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="http://de.ufpb.br/datalab/pt/tags/robotics/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Artificial Intelligence</title>
-      <link>https://datalabufpb.netlify.app/pt/project/artificial-intelligence/</link>
+      <link>http://de.ufpb.br/datalab/pt/project/artificial-intelligence/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://datalabufpb.netlify.app/pt/project/artificial-intelligence/</guid>
+      <guid>http://de.ufpb.br/datalab/pt/project/artificial-intelligence/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Robotics</title>
-      <link>https://datalabufpb.netlify.app/pt/project/robotics/</link>
+      <link>http://de.ufpb.br/datalab/pt/project/robotics/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://datalabufpb.netlify.app/pt/project/robotics/</guid>
+      <guid>http://de.ufpb.br/datalab/pt/project/robotics/</guid>
       <description></description>
     </item>
     
