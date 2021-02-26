@@ -24,9 +24,18 @@
     <item>
       <title>Pts</title>
       <link>http://de.ufpb.br/datalab/pt/</link>
-      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>http://de.ufpb.br/datalab/pt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>http://de.ufpb.br/datalab/publication/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://de.ufpb.br/datalab/publication/</guid>
       <description></description>
     </item>
     
@@ -36,15 +45,6 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>http://de.ufpb.br/datalab/project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>http://de.ufpb.br/datalab/publication/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://de.ufpb.br/datalab/publication/</guid>
       <description></description>
     </item>
     
