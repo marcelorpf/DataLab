@@ -3,173 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://de.ufpb.br/datalab/courses/example/example1/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://de.ufpb.br/datalab/pt/courses/example/example1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://de.ufpb.br/datalab/courses/example/example1/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://de.ufpb.br/datalab/courses/example.1/example3/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://de.ufpb.br/datalab/pt/courses/example.1/example3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://de.ufpb.br/datalab/courses/example.1/example3/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://de.ufpb.br/datalab/courses/example.2/example3/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://de.ufpb.br/datalab/pt/courses/example.2/example3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://de.ufpb.br/datalab/courses/example.2/example3/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://de.ufpb.br/datalab/courses/example.1/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://de.ufpb.br/datalab/pt/courses/example.1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://de.ufpb.br/datalab/courses/example.1/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://de.ufpb.br/datalab/courses/example.2/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://de.ufpb.br/datalab/pt/courses/example.2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://de.ufpb.br/datalab/courses/example.2/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://de.ufpb.br/datalab/courses/example/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://de.ufpb.br/datalab/pt/courses/example/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://de.ufpb.br/datalab/courses/example/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://de.ufpb.br/datalab/courses/example.2/example4/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://de.ufpb.br/datalab/pt/courses/example.2/example4/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://de.ufpb.br/datalab/courses/example.2/example4/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://de.ufpb.br/datalab/courses/example/example2/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://de.ufpb.br/datalab/pt/courses/example/example2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://de.ufpb.br/datalab/courses/example/example2/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://de.ufpb.br/datalab/courses/example.1/example4/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://de.ufpb.br/datalab/pt/courses/example.1/example4/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://de.ufpb.br/datalab/courses/example.1/example4/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://de.ufpb.br/datalab/courses/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://de.ufpb.br/datalab/pt/courses/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://de.ufpb.br/datalab/courses/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://de.ufpb.br/datalab/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://de.ufpb.br/datalab/pt/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://de.ufpb.br/datalab/"
-                />
-  </url>
-  
-  <url>
     <loc>http://de.ufpb.br/datalab/authors/admin/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -183,43 +17,7 @@
   </url>
   
   <url>
-    <loc>http://de.ufpb.br/datalab/publication_types/3/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://de.ufpb.br/datalab/pt/publication_types/3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://de.ufpb.br/datalab/publication_types/3/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://de.ufpb.br/datalab/pt/publication/preprint/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://de.ufpb.br/datalab/publication/preprint/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://de.ufpb.br/datalab/pt/publication/preprint/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://de.ufpb.br/datalab/publication/preprint/"
-                />
-  </url>
-  
-  <url>
     <loc>http://de.ufpb.br/datalab/authors/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -230,276 +28,6 @@
                 hreflang="en"
                 href="http://de.ufpb.br/datalab/authors/"
                 />
-  </url>
-  
-  <url>
-    <loc>http://de.ufpb.br/datalab/pt/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://de.ufpb.br/datalab/publication_types/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://de.ufpb.br/datalab/pt/publication_types/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://de.ufpb.br/datalab/publication_types/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://de.ufpb.br/datalab/pt/publication/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://de.ufpb.br/datalab/publication/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://de.ufpb.br/datalab/pt/publication/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://de.ufpb.br/datalab/publication/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://de.ufpb.br/datalab/tags/source-themes/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://de.ufpb.br/datalab/pt/tags/source-themes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://de.ufpb.br/datalab/tags/source-themes/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://de.ufpb.br/datalab/tags/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://de.ufpb.br/datalab/pt/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://de.ufpb.br/datalab/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://de.ufpb.br/datalab/project/artificial-intelligence/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://de.ufpb.br/datalab/pt/project/artificial-intelligence/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://de.ufpb.br/datalab/project/artificial-intelligence/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://de.ufpb.br/datalab/pt/project/artificial-intelligence/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://de.ufpb.br/datalab/tags/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://de.ufpb.br/datalab/pt/tags/deep-learning/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://de.ufpb.br/datalab/tags/deep-learning/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://de.ufpb.br/datalab/project/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://de.ufpb.br/datalab/pt/project/deep-learning/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://de.ufpb.br/datalab/project/deep-learning/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://de.ufpb.br/datalab/tags/demo/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://de.ufpb.br/datalab/pt/tags/demo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://de.ufpb.br/datalab/tags/demo/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://de.ufpb.br/datalab/project/external-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://de.ufpb.br/datalab/pt/project/external-project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://de.ufpb.br/datalab/project/external-project/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://de.ufpb.br/datalab/tags/human/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://de.ufpb.br/datalab/pt/tags/human/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://de.ufpb.br/datalab/tags/human/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://de.ufpb.br/datalab/project/internal-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://de.ufpb.br/datalab/pt/project/internal-project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://de.ufpb.br/datalab/project/internal-project/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://de.ufpb.br/datalab/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://de.ufpb.br/datalab/pt/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://de.ufpb.br/datalab/project/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://de.ufpb.br/datalab/project/robotics/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://de.ufpb.br/datalab/pt/project/robotics/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://de.ufpb.br/datalab/project/robotics/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://de.ufpb.br/datalab/pt/project/robotics/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://de.ufpb.br/datalab/tags/robotics/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://de.ufpb.br/datalab/pt/tags/robotics/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://de.ufpb.br/datalab/tags/robotics/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://de.ufpb.br/datalab/project/skin-cancer-ai/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://de.ufpb.br/datalab/pt/project/skin-cancer-ai/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://de.ufpb.br/datalab/project/skin-cancer-ai/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://de.ufpb.br/datalab/publication_types/2/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://de.ufpb.br/datalab/pt/publication/journal-article/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://de.ufpb.br/datalab/authors/robert-ford/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://de.ufpb.br/datalab/publication_types/1/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://de.ufpb.br/datalab/pt/publication/conference-paper/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -517,7 +45,49 @@
   </url>
   
   <url>
-    <loc>http://de.ufpb.br/datalab/pt/courses/</loc>
+    <loc>http://de.ufpb.br/datalab/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://de.ufpb.br/datalab/pt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://de.ufpb.br/datalab/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://de.ufpb.br/datalab/pt/</loc>
+  </url>
+  
+  <url>
+    <loc>http://de.ufpb.br/datalab/publication_types/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://de.ufpb.br/datalab/pt/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://de.ufpb.br/datalab/publication_types/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://de.ufpb.br/datalab/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://de.ufpb.br/datalab/pt/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://de.ufpb.br/datalab/tags/"
+                />
   </url>
   
 </urlset>
