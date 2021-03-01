@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DataLab</title>
+    <link>http://de.ufpb.br/datalab/authors/marcelo/</link>
+    <description>Recent content on DataLab</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year} [DataLab](https://datalab.de.ufpb.br)</copyright>
+    
+	    <atom:link href="http://de.ufpb.br/datalab/authors/marcelo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
