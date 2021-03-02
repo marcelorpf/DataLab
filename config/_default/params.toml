@@ -15,7 +15,7 @@ day_night = false
 font = "default"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Data Science, Statistics and Artificial Intelligence"
+description = "Data Science, Statistics, Machine Learning and Artificial Intelligence"
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
 sharing_image = ""
@@ -40,7 +40,7 @@ math = true
 # Privacy pack
 #   Show a cookie consent message to visitors
 #   Anonymize IP in Google Analytics (if enabled)
-privacy_pack = false
+privacy_pack = true
 
 # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
 #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
@@ -90,8 +90,8 @@ contact_links = [
 #   1: Google Maps
 #   2: OpenStreetMap (Mapnik)
 #   3: OpenStreetMap (Mapbox)
-map = 0
-google_maps_api_key = "AIzaSyA_T3hXtBFARRZUl289iibwaGtI96rRDZc"
+map = 1
+gmap_api_key = "AIzaSyDcM4pi51XX3RSh_6_YAY7S4meJ1IxZSCg"
 latitude = "-7.14042"
 longitude = "-34.84617"
 zoom = 15
