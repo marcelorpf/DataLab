@@ -9,19 +9,19 @@ subtitle = ""
 +++
 {{< row >}}
 {{< column >}}
-{{< figure src="img/logo-de.png#center" title="" width="155px" >}}
+{{< figure src="img/logo-de.png#center" title="" width="180px" >}}
 {{% center %}}
 [Departamento de Estatística/UFPB](https://www.ufpb.br/de)
 {{% /center %}}
 {{< /column >}}
 {{< column >}}
-{{< figure src="img/logo-obsrpb.png#center" title="" width="240px" >}}
+{{< figure src="img/logo-obsrpb.png#center" title="" width="180px" >}}
 {{% center %}}
 [Observatório de Síndromes Respiratórias da UFPB](http://obsrpb.com.br/ufpb/)
 {{% /center %}}
 {{< /column >}}
 {{< column >}}
-{{< figure src="img/logo-lamp.png#center" title="" width="240px" >}}
+{{< figure src="img/logo-lamp.png#center" title="" width="145px" >}}
 {{% center %}}
 [Laboratório de Amostragem e Metodologia de Pesquisa](https://www.ufpb.br/de/contents/paginas/lamp/lamp-laboratorio-de-amostragem-e-metodologia-de-pesquisa)
 {{% /center %}}
