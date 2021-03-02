@@ -33,7 +33,7 @@ subtitle = ""
 {{< column >}}
 {{< figure src="img/marcelo.jpeg#center" title="" width="200px" >}}
 {{% center %}}
-[Marcelo Ferreira](people/marcelo/)
+[Marcelo Ferreira](http://lattes.cnpq.br/2620157217100077)
 {{% /center %}}
 {{< /column >}}
 {{< column >}}
