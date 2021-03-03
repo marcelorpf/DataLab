@@ -17,7 +17,7 @@ baseURL = "http://de.ufpb.br/datalab/"
 copyright = "Copyright &copy; {year} [DataLab](http://de.ufpb.br/datalab/)"
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "G-2H17SX4KV7"
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
