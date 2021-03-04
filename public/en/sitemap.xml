@@ -17,7 +17,7 @@
   </url>
   
   <url>
-    <loc>http://de.ufpb.br/datalab/pt/authors/admin/</loc>
+    <loc>http://de.ufpb.br/datalab/authors/marcelo/</loc>
   </url>
   
   <url>
@@ -60,6 +60,10 @@
                 hreflang="en"
                 href="http://de.ufpb.br/datalab/"
                 />
+  </url>
+  
+  <url>
+    <loc>http://de.ufpb.br/datalab/marcelo/</loc>
   </url>
   
   <url>
