@@ -59,6 +59,20 @@
   </url>
   
   <url>
+    <loc>http://de.ufpb.br/datalab/pt/marcelo/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://de.ufpb.br/datalab/marcelo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://de.ufpb.br/datalab/pt/marcelo/"
+                />
+  </url>
+  
+  <url>
     <loc>http://de.ufpb.br/datalab/pt/publication_types/</loc>
     <xhtml:link
                 rel="alternate"
