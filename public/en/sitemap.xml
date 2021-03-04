@@ -17,6 +17,10 @@
   </url>
   
   <url>
+    <loc>http://de.ufpb.br/datalab/pt/authors/admin/</loc>
+  </url>
+  
+  <url>
     <loc>http://de.ufpb.br/datalab/authors/</loc>
     <xhtml:link
                 rel="alternate"

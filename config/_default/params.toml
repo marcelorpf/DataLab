@@ -40,7 +40,7 @@ math = true
 # Privacy pack
 #   Show a cookie consent message to visitors
 #   Anonymize IP in Google Analytics (if enabled)
-privacy_pack = true
+privacy_pack = false
 
 # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
 #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
@@ -55,7 +55,7 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "datalab@de.ufpb.br"
 phone = "+55 83 3216-7785"
-address = "Departamento de Estatística, Centro de Ciências Exatas e da Natureza, UFPB, Cidade Universitária s/n, CEP 58051-900, João Pessoa/PB, Brasil"
+address = "DE - Departamento de Estatística - CCEN, UFPB, Cidade Universitária s/n, CEP 58051-900, João Pessoa/PB, Brasil"
 instagram = "datalab.ufpb"
 linkedin = "datalab.ufpb"
 
@@ -92,8 +92,8 @@ contact_links = [
 #   3: OpenStreetMap (Mapbox)
 map = 1
 map_api_key = "AIzaSyDcM4pi51XX3RSh_6_YAY7S4meJ1IxZSCg"
-latitude = "-7.14042"
-longitude = "-34.84617"
+latitude = "-7.14024"
+longitude = "-34.84618"
 zoom = 15
 
 ############################
