@@ -164,3 +164,6 @@ sharing = true
     api_key = ""
     index_name = ""
     show_logo = false
+
+[icon.pack]
+  ai = true
