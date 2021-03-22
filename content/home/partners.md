@@ -9,6 +9,46 @@ subtitle = ""
 +++
 {{< row >}}
 {{< column >}}
+{{< figure src="img/logo-ufpb.png#center" title="" width="180px" >}}
+{{% center %}}
+[UFPB](https://www.ufpb.br)
+{{% /center %}}
+{{< /column >}}
+{{< column >}}
+{{< figure src="img/logo-ufpe.png#center" title="" width="155px" >}}
+{{% center %}}
+[UFPE](https://www.ufpe.br)
+{{% /center %}}
+{{< /column >}}
+{{< column >}}
+{{< figure src="img/logo-unicamp.png#center" title="" width="260px" >}}
+{{% center %}}
+[UNICAMP](https://www.unicamp.br)
+{{% /center %}}
+{{< /column >}}
+{{< column >}}
+{{< figure src="img/logo-ufsm.png#center" title="" width="170px" >}}
+{{% center %}}
+[UFSM](https://www.ufsm.br)
+{{% /center %}}
+{{< /column >}}
+{{< /row >}}
+{{< row >}}
+{{< column >}}
+{{< figure src="img/logo-bristol.png#center" title="" width="180px" >}}
+{{% center %}}
+[University of Bristol](https://www.bristol.ac.uk/)
+{{% /center %}}
+{{< /column >}}
+{{< column >}}
+{{< figure src="img/logo-rwth.png#center" title="" width="380px" >}}
+{{% center %}}
+[RWTH Aachen University](https://costalab.org/)
+{{% /center %}}
+{{< /column >}}
+{{< /row >}}
+{{< row >}}
+{{< column >}}
 {{< figure src="img/logo-de.png#center" title="" width="180px" >}}
 {{% center %}}
 [Departamento de Estatística/UFPB](https://www.ufpb.br/de)

@@ -21,7 +21,7 @@ DataLab develops multidisciplinary research on data science, statistics and mach
 ### Consulting
 {{% /center %}}
 {{% justify %}}
-For companies and organizations willing to identify and integrate data science and statistical technologies in their workflows. Examples of applications: E-commerce (identify consumers, recommend products, analyze reviews), Industry (predict fails, monitor systems, anomaly detection, maintenance schedule), Banking (fraud detection, credit risk modeling, consumer lifetime value), Healthcare (medical image analysis, drug discovery, bioinformatics), and much more.
+For companies and organizations willing to integrate data science and statistical technologies in their workflows. Examples of applications: E-commerce (identify consumers, recommend products, analyze reviews), Industry (predict fails, monitor systems, anomaly detection, maintenance schedule), Banking (fraud detection, credit risk modeling, consumer lifetime value), Healthcare (medical image analysis, drug discovery, bioinformatics), and much more.
 {{% /justify %}}
 {{< /column >}}
 {{< column >}}
