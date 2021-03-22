@@ -71,7 +71,7 @@ linkedin = "datalab.ufpb"
 contact_links = [
   {icon = "instagram", icon_pack = "fab", name = "Follow us", link = "https://instagram.com/datalab.ufpb"},
   {icon = "linkedin", icon_pack = "fab", name = "Connect with us", link = "https://linkedin.com/datalab.ufpb"},
-  # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
+  {icon = "envelope", icon_pack = "fas", name = "Contact us", link = "mailto:datalab@de.ufpb.br"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
 

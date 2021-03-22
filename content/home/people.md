@@ -19,25 +19,25 @@ subtitle = ""
 +++
 {{< row >}}
 {{< column >}}
-{{< figure src="img/eufrasio.jpeg#center" title="" width="200px" class="Center" >}}
+{{< figure src="img/eufrasio.png#center" title="" width="200px" class="Center" >}}
 {{% center %}}
 [Eufrásio Lima Neto](http://lattes.cnpq.br/5580004940091667)
 {{% /center %}}
 {{< /column >}}
 {{< column >}}
-{{< figure src="img/luiz.jpeg#center" title="" width="200px" >}}
+{{< figure src="img/luiz.png#center" title="" width="200px" >}}
 {{% center %}}
 [Luiz Medeiros](http://lattes.cnpq.br/8680871640499952)
 {{% /center %}}
 {{< /column >}}
 {{< column >}}
-{{< figure src="img/marcelo.jpeg#center" title="" width="200px" >}}
+{{< figure src="img/marcelo.png#center" title="" width="200px" >}}
 {{% center %}}
 [Marcelo Ferreira](marcelo/)
 {{% /center %}}
 {{< /column >}}
 {{< column >}}
-{{< figure src="img/telmo.jpeg#center" title="" width="200px" >}}
+{{< figure src="img/telmo.png#center" title="" width="200px" >}}
 {{% center %}}
 [Telmo Filho](http://lattes.cnpq.br/4640945954423515)
 {{% /center %}}
