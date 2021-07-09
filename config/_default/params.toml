@@ -90,7 +90,7 @@ contact_links = [
 #   1: Google Maps
 #   2: OpenStreetMap (Mapnik)
 #   3: OpenStreetMap (Mapbox)
-map = 1
+map = 2
 map_api_key = "AIzaSyDcM4pi51XX3RSh_6_YAY7S4meJ1IxZSCg"
 latitude = "-7.14024"
 longitude = "-34.84618"
