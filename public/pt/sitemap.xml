@@ -17,6 +17,20 @@
   </url>
   
   <url>
+    <loc>http://de.ufpb.br/datalab/pt/authors/marcelo/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://de.ufpb.br/datalab/authors/marcelo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://de.ufpb.br/datalab/pt/authors/marcelo/"
+                />
+  </url>
+  
+  <url>
     <loc>http://de.ufpb.br/datalab/pt/authors/</loc>
     <xhtml:link
                 rel="alternate"
