@@ -7,7 +7,7 @@ authors:
 - marcelo
 # resume download button
 btn:
-- url : "http://www.de.ufpb.br/pt/marcelo/cv.pdf"
+- url : "http://www.de.ufpb.br/datalab/pt/marcelo/cv.pdf"
   label : "Curriculum Vitae"
 
 # Is this the primary user of the site?
